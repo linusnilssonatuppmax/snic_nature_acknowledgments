@@ -41,7 +41,9 @@ NSC    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 4    | 2    | 11   | 6
 UPPMAX | 0    | 0    | 0    | 0    | 0    | 0    | 2    | 8    | 6    | 7    | 22   | 18   | 20   | 31   | 31   | 44   | 69   |
 SSC    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 2    | 0    | 0    | 0    |
 
-### Discussion
+![snic_ack_bar.png](snic_ack_bar.png)
+
+### Discussion & limitations
 * Most, but not all, articles had an open/free acknowledgment section. For
   locked or paywalled articles the online Uppsala University library at
   https://ub.uu.se was used to read the article.
