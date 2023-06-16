@@ -3,8 +3,8 @@
 ### Date
 2023-05-14
 
-### Author: Linus Nilsson
-Linus Nilsson <linus.nilsson@uppmax.uu.se>
+### Author
+Linus Nilsson, <linus.nilsson@uppmax.uu.se>
 
 ### Conflict of interest
 The author is employed at UPPMAX (previously a SNIC center).
